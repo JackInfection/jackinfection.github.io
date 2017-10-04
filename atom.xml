@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-10-03T03:42:48.488Z</updated>
+  <updated>2017-10-04T13:07:37.348Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,20 +17,30 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>wenzhang</title>
-    <link href="http://yoursite.com/2017/10/03/wenzhang/"/>
-    <id>http://yoursite.com/2017/10/03/wenzhang/</id>
-    <published>2017-10-03T03:41:00.000Z</published>
-    <updated>2017-10-03T03:42:48.488Z</updated>
+    <title>First Text</title>
+    <link href="http://yoursite.com/2017/10/04/First-Text/"/>
+    <id>http://yoursite.com/2017/10/04/First-Text/</id>
+    <published>2017-10-04T13:04:00.000Z</published>
+    <updated>2017-10-04T13:07:37.348Z</updated>
     
-    <content type="html"><![CDATA[<p><strong>bold</strong><br>简介<br><a id="more"></a></p><p>正文</p>]]></content>
+    <content type="html"><![CDATA[<p><strong><em>Hello</em></strong></p><p>This is my first <strong>Text</strong></p><p>oh,my god</p>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;strong&gt;bold&lt;/strong&gt;&lt;br&gt;简介&lt;br&gt;
+      
+      
+        &lt;p&gt;&lt;strong&gt;&lt;em&gt;Hello&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This is my first &lt;strong&gt;Text&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;oh,my god&lt;/p&gt;
+
+      
     
     </summary>
     
+      <category term="Games" scheme="http://yoursite.com/categories/Games/"/>
+    
+    
+      <category term="守望先锋" scheme="http://yoursite.com/tags/%E5%AE%88%E6%9C%9B%E5%85%88%E9%94%8B/"/>
     
   </entry>
   
