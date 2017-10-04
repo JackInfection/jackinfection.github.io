@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Gan_ran的网站</title>
+  <title>COOL.WorkTeam——Live Center</title>
   
-  <subtitle>子标题</subtitle>
+  <subtitle>Administrator：Jack_Infection</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
@@ -10,7 +10,7 @@
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>Jack_infection</name>
+    <name>Jack_Infection</name>
     
   </author>
   
